@@ -16,5 +16,6 @@
   
   <modules>
     <module>thymeleaf-html</module>
+    <module>snakeyaml</module>
   </modules>
 </project>
