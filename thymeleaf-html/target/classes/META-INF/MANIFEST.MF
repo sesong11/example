@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: song_se
+Build-Jdk: 11.0.1
+Implementation-Title: thymeleaf-html
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.cbot
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
