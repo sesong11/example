@@ -17,5 +17,6 @@
   <modules>
     <module>thymeleaf-html</module>
     <module>snakeyaml</module>
+    <module>quartz-jdbc</module>
   </modules>
 </project>
