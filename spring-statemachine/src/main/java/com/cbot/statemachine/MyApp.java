@@ -21,8 +21,11 @@ public class MyApp implements ApplicationRunner {
 		stateMachine.start();
 		//event not accepted 
 		stateMachine.sendEvent(Events.EVENT3);
+		//start machine and state 1
 		stateMachine.sendEvent(Events.EVENT1);
+		//start state 2
 		stateMachine.sendEvent(Events.EVENT2);
+		//start start 3 and end
 		stateMachine.sendEvent(Events.EVENT3);
 	}
 

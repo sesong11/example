@@ -19,5 +19,6 @@
     <module>snakeyaml</module>
     <module>quartz-jdbc</module>
     <module>spring-statemachine</module>
+    <module>spring-statemachine-jpa</module>
   </modules>
 </project>
