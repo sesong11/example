@@ -16,5 +16,4 @@ public class MyJob extends QuartzJobBean {
         String name = jobDataMap.getString("name");
         log.info("Executing Job with key {} name {}", context.getJobDetail().getKey(), name);
 	}
-
 }
